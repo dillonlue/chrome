@@ -7,7 +7,7 @@ that can predicting gene expression.
 the University of Virginia.
 
 ## Projects
-<img src="https://qdata.github.io/qdata-page/pic/interpretDeep.png" align="left" height="200" >
+<img src="https://qdata.github.io/qdata-page/pic/interpretDeep.png" align="left" height="400" >
 
 The below methods all aim to predict gene expression; however, the methods differ in their implementation and biological interpretations.
 For the most part, the programs build from top to bottom.
