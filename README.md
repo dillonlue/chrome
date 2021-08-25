@@ -3,11 +3,11 @@
 This repo contains deep learning models for building interpretable representations of epigenetic markers
 that can predicting gene expression.
 
-[QData lab](https://qdata.github.io/qdata-page/categories/AIbiomed//) at
+[QData lab](https://qdata.github.io/qdata-page/categories/AIbiomed//) <br/>
 the University of Virginia.
 
 ## Projects
-<img src="https://qdata.github.io/qdata-page/pic/interpretDeep.png" align="right" height="400" >  
+<img src="https://qdata.github.io/qdata-page/pic/interpretDeep.png" align="right" height="400">  
 
 
 The below methods all aim to predict gene expression; however, the methods differ in their implementation and biological interpretations.
